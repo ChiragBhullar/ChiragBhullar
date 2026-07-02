@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/YourGitHubUsername">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BChirag+Bhullar%5D+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Chirag+Bhullar+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
 
 ### 🚀 Building scalable systems by day, breaking things to learn by night.
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-bhullar-015933288/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ychiragbhullar07@gmail.com)
 
 </div>
