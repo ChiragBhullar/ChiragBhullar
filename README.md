@@ -2,15 +2,15 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/YourGitHubUsername">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BChirag+Bhullar%5D+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
 
 ### 🚀 Building scalable systems by day, breaking things to learn by night.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=2E9EF7&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/YourGitHubUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=ChiragBhullar&color=2E9EF7&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ChiragBhullar?label=Follow&style=social)](https://github.com/ChiragBhullar)
 
 </div>
 
@@ -23,7 +23,7 @@
 - 👯 I'm looking to collaborate on **open-source developer tools and APIs**
 - 💬 Ask me about **React, TypeScript, Python, and cloud deployment (AWS/Docker)**
 - ⚡ Fun fact: **I debug better with coffee in hand ☕**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **(chiragbhullar07@gmail.com)**
 
 ---
 
@@ -60,12 +60,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChiragBhullar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragBhullar&layout=compact&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragBhullar&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragBhullar&theme=tokyo-night" width="100%"/>
 
 </div>
 
@@ -75,10 +75,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ychiragbhullar07@gmail.com)
 
 </div>
 
